@@ -1,0 +1,166 @@
+{
+  "persons": [
+    {
+      "id": "p1",
+      "name": "Albert Einstein",
+      "description": "German-born theoretical physicist, developed the theory of relativity",
+      "answers": {
+        "q1": "y",
+        "q2": "n",
+        "q3": "n",
+        "q4": "n",
+        "q5": "n",
+        "q6": "n",
+        "q7": "y",
+        "q8": "n",
+        "q9": "y",
+        "q10": "y",
+        "q11": "n"
+      }
+    },
+    {
+      "id": "p2",
+      "name": "Marie Curie",
+      "description": "Polish-French physicist and chemist, pioneer of radioactivity research",
+      "answers": {
+        "q1": "n",
+        "q2": "n",
+        "q3": "n",
+        "q4": "n",
+        "q5": "n",
+        "q6": "n",
+        "q7": "y",
+        "q8": "n",
+        "q9": "y",
+        "q10": "y",
+        "q11": "n"
+      }
+    },
+    {
+      "id": "p3",
+      "name": "Barack Obama",
+      "description": "44th President of the United States",
+      "answers": {
+        "q1": "y",
+        "q2": "y",
+        "q3": "y",
+        "q4": "n",
+        "q5": "n",
+        "q6": "n",
+        "q7": "n",
+        "q8": "y",
+        "q9": "n",
+        "q10": "y",
+        "q11": "n"
+      }
+    },
+    {
+      "id": "p4",
+      "name": "Elon Musk",
+      "description": "Entrepreneur behind Tesla and SpaceX",
+      "answers": {
+        "q1": "y",
+        "q2": "y",
+        "q3": "m",
+        "q4": "n",
+        "q5": "n",
+        "q6": "n",
+        "q7": "y",
+        "q8": "n",
+        "q9": "n",
+        "q10": "n",
+        "q11": "n"
+      }
+    },
+    {
+      "id": "p5",
+      "name": "Taylor Swift",
+      "description": "American singer-songwriter",
+      "answers": {
+        "q1": "n",
+        "q2": "y",
+        "q3": "y",
+        "q4": "n",
+        "q5": "y",
+        "q6": "n",
+        "q7": "n",
+        "q8": "n",
+        "q9": "n",
+        "q10": "n",
+        "q11": "n"
+      }
+    },
+    {
+      "id": "p6",
+      "name": "Cristiano Ronaldo",
+      "description": "Portuguese professional footballer",
+      "answers": {
+        "q1": "y",
+        "q2": "y",
+        "q3": "n",
+        "q4": "n",
+        "q5": "n",
+        "q6": "y",
+        "q7": "n",
+        "q8": "n",
+        "q9": "n",
+        "q10": "n",
+        "q11": "n"
+      }
+    },
+    {
+      "id": "p7",
+      "name": "Leonardo DiCaprio",
+      "description": "American actor and film producer",
+      "answers": {
+        "q1": "y",
+        "q2": "y",
+        "q3": "y",
+        "q4": "y",
+        "q5": "n",
+        "q6": "n",
+        "q7": "n",
+        "q8": "n",
+        "q9": "n",
+        "q10": "n",
+        "q11": "n"
+      }
+    },
+    {
+      "id": "p8",
+      "name": "Serena Williams",
+      "description": "American professional tennis player",
+      "answers": {
+        "q1": "n",
+        "q2": "y",
+        "q3": "y",
+        "q4": "n",
+        "q5": "n",
+        "q6": "y",
+        "q7": "n",
+        "q8": "n",
+        "q9": "n",
+        "q10": "n",
+        "q11": "n"
+      }
+    },
+    {
+      "id": "p9",
+      "name": "Sherlock Holmes",
+      "description": "Fictional detective created by Sir Arthur Conan Doyle",
+      "answers": {
+        "q1": "y",
+        "q2": "i",
+        "q3": "n",
+        "q4": "n",
+        "q5": "n",
+        "q6": "n",
+        "q7": "m",
+        "q8": "n",
+        "q9": "i",
+        "q10": "n",
+        "q11": "y"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Is the person male?",
+      "weight": 2.0
+    },
+    {
+      "id": "q2",
+      "text": "Is the person still alive?",
+      "weight": 1.5
+    },
+    {
+      "id": "q3",
+      "text": "Is the person from the United States?",
+      "weight": 1.5
+    },
+    {
+      "id": "q4",
+      "text": "Is the person primarily known for acting or film?",
+      "weight": 1.5
+    },
+    {
+      "id": "q5",
+      "text": "Is the person primarily known for music?",
+      "weight": 1.5
+    },
+    {
+      "id": "q6",
+      "text": "Is the person primarily known for sports?",
+      "weight": 1.5
+    },
+    {
+      "id": "q7",
+      "text": "Is the person primarily known for science or technology?",
+      "weight": 1.5
+    },
+    {
+      "id": "q8",
+      "text": "Is the person primarily known for politics?",
+      "weight": 1.5
+    },
+    {
+      "id": "q9",
+      "text": "Was the person born before 1950?",
+      "weight": 1.2
+    },
+    {
+      "id": "q10",
+      "text": "Has the person won a Nobel Prize?",
+      "weight": 1.0
+    },
+    {
+      "id": "q11",
+      "text": "Is the person a fictional character?",
+      "weight": 2.0
+    }
+  ]
+}
